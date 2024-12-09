@@ -25,59 +25,59 @@ msgstr "27-06-2022"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.inherit_homepage_template
-msgid "<span class=\"d-inline-block\">Company Gallery</span>"
-msgstr "<span class=\"d-inline-block\">Phòng trưng bày công ty</span>"
+msgid "Company Gallery"
+msgstr "Phòng trưng bày công ty"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.inherit_homepage_template
-msgid "<span class=\"d-inline-block\">Company Intention</span>"
+msgid "Company Intention"
 msgstr ""
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.inherit_homepage_template
-msgid "<span class=\"d-inline-block\">TIN TỨC NỘI BỘ MỚI NHẤT</span>"
+msgid "TIN TỨC NỘI BỘ MỚI NHẤT"
 msgstr ""
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
-msgid "<strong>Availability:</strong>"
+msgid "Availability"
 msgstr ""
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
 #: model_terms:ir.ui.view,arch_db:estate.estates_page
-msgid "<strong>Bedrooms:</strong>"
-msgstr "<strong>Phòng ngủ:</strong>"
+msgid "Bedrooms"
+msgstr "Phòng ngủ"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
-msgid "<strong>Description:</strong>"
-msgstr "<strong>Miêu tả:</strong>"
+msgid "Description"
+msgstr "Miêu tả"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
-msgid "<strong>Expected Price:</strong>"
-msgstr "<strong>Giá mong đợi:</strong>"
+msgid "Expected Price"
+msgstr "Giá mong đợi"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
-msgid "<strong>Facades:</strong>"
-msgstr "<strong>Mặt tiền:</strong>"
+msgid "Facades"
+msgstr "Mặt tiền"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
-msgid "<strong>Garden Area:</strong>"
-msgstr "<strong>Khu vườn:</strong>"
+msgid "Garden Area"
+msgstr "Khu vườn"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
-msgid "<strong>Garden Orientation:</strong>"
-msgstr "<strong>Hướng vườn:</strong>"
+msgid "Garden Orientation"
+msgstr "Hướng vườn"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
-msgid "<strong>Garden:</strong>"
-msgstr "<strong>Vườn:</strong>"
+msgid "Garden"
+msgstr "Vườn"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
