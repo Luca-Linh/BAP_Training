@@ -21,7 +21,7 @@ msgstr ""
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.inherit_homepage_template
 msgid "27-06-2022"
-msgstr ""
+msgstr "27-06-2022"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.inherit_homepage_template
@@ -46,90 +46,90 @@ msgstr ""
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
 #: model_terms:ir.ui.view,arch_db:estate.estates_page
-msgid "Bedrooms"
-msgstr "Phòng ngủ"
+msgid "<strong>Bedrooms:</strong>"
+msgstr "<strong>Phòng ngủ:</strong>"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
 msgid "<strong>Description:</strong>"
-msgstr ""
+msgstr "<strong>Miêu tả:</strong>"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
 msgid "<strong>Expected Price:</strong>"
-msgstr ""
+msgstr "<strong>Giá mong đợi:</strong>"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
 msgid "<strong>Facades:</strong>"
-msgstr ""
+msgstr "<strong>Mặt tiền:</strong>"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
 msgid "<strong>Garden Area:</strong>"
-msgstr ""
+msgstr "<strong>Khu vườn:</strong>"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
 msgid "<strong>Garden Orientation:</strong>"
-msgstr ""
+msgstr "<strong>Hướng vườn:</strong>"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
 msgid "<strong>Garden:</strong>"
-msgstr ""
+msgstr "<strong>Vườn:</strong>"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
 msgid "<strong>Living Area:</strong>"
-msgstr ""
+msgstr "<strong>Khu vực sống:</strong>"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
 msgid "<strong>Location:</strong>"
-msgstr ""
+msgstr "<strong>Vị trí:</strong>"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
 msgid "<strong>Name:</strong>"
-msgstr ""
+msgstr "<strong>Tên:</strong>"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estates_page
 msgid "<strong>Price:</strong>"
-msgstr ""
+msgstr "<strong>Giá:</strong>"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
 msgid "<strong>Selling Price:</strong>"
-msgstr ""
+msgstr "<strong>Giá bán:</strong>"
 
 #. module: estate
 #: code:addons/estate/models/estate_property.py:0
 #, python-format
 msgid "A canceled property cannot be sold."
-msgstr ""
+msgstr "Tài sản bị hủy bỏ không thể bán được."
 
 #. module: estate
 #: code:addons/estate/models/estate_property.py:0
 #, python-format
 msgid "A sold property cannot be canceled."
-msgstr ""
+msgstr "Tài sản đã bán không thể bị hủy bỏ."
 
 #. module: estate
 #: model:ir.model.fields.selection,name:estate.selection__estate_property_offer__status__accepted
 msgid "Accepted"
-msgstr ""
+msgstr "Đã chấp nhận"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_buyer_offer_report__offers_accepted
 msgid "Accepted Offers"
-msgstr ""
+msgstr "Đã chấp nhận đề nghị"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_buyer_offer_report__properties_accepted
 msgid "Accepted Properties"
-msgstr ""
+msgstr "Tài sản đã được chấp nhận"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__message_needaction
@@ -139,12 +139,12 @@ msgstr ""
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__active
 msgid "Active"
-msgstr ""
+msgstr "kích hoạt"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__activity_ids
 msgid "Activities"
-msgstr ""
+msgstr "Những hành động"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__activity_exception_decoration
@@ -154,7 +154,7 @@ msgstr ""
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__activity_state
 msgid "Activity State"
-msgstr ""
+msgstr "Trạng thái hoạt động"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__activity_type_icon
@@ -164,14 +164,14 @@ msgstr ""
 #. module: estate
 #: model:ir.ui.menu,name:estate.estate_menu_adv
 msgid "Advertisement"
-msgstr ""
+msgstr "Quảng cáo"
 
 #. module: estate
 #. openerp-web
 #: code:addons/estate/static/src/xml/button_widget.xml:0
 #, python-format
 msgid "Apply"
-msgstr ""
+msgstr "Áp dụng"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__message_attachment_count
@@ -187,7 +187,7 @@ msgstr ""
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
 msgid "Back to Listing"
-msgstr ""
+msgstr "Quay lại"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__bedrooms
@@ -199,7 +199,7 @@ msgstr "Phòng ngủ"
 #: model:ir.model.fields,field_description:estate.field_estate_property__partner_id
 #: model:ir.model.fields,field_description:estate.field_estate_property_offer__buyer_id
 msgid "Buyer"
-msgstr ""
+msgstr "Người mua"
 
 #. module: estate
 #: model:ir.actions.act_window,name:estate.buyer_offer_report_action
@@ -207,7 +207,7 @@ msgstr ""
 #: model:ir.ui.menu,name:estate.estate_menu_report_buyer
 #: model_terms:ir.ui.view,arch_db:estate.buyer_offer_report_view_tree
 msgid "Buyer Offer Report"
-msgstr ""
+msgstr "Báo cáo đề nghị người mua"
 
 #. module: estate
 #: model:ir.model,name:estate.model_buyer_offer_report_wizard
@@ -218,41 +218,41 @@ msgstr ""
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_buyer_offer_report_wizard__buyer_ids
 msgid "Buyers"
-msgstr ""
+msgstr "Những người mua"
 
 #. module: estate
 #: code:addons/estate/models/estate_property.py:0
 #, python-format
 msgid "Can not Delete Property not in new or canceled"
-msgstr ""
+msgstr "Không thể xóa Thuộc tính không có mới hoặc bị hủy"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.buyer_offer_report_wizard_view_form
 #: model_terms:ir.ui.view,arch_db:estate.estate_property_view_form
 msgid "Cancel"
-msgstr ""
+msgstr "Hủy bỏ"
 
 #. module: estate
 #: model:ir.model.fields.selection,name:estate.selection__estate_property__state__canceled
 msgid "Canceled"
-msgstr ""
+msgstr "Đã hủy"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_buyer_offer_report__properties_canceled
 msgid "Canceled Properties"
-msgstr ""
+msgstr "Tài sản đã hủy"
 
 #. module: estate
 #: code:addons/estate/models/estate_property_offer.py:0
 #, python-format
 msgid "Cannot Delete Offer Accepted"
-msgstr ""
+msgstr "Không thể xóa đề nghị đã được chấp nhận"
 
 #. module: estate
 #: code:addons/estate/models/estate_property_offer.py:0
 #, python-format
 msgid "Cannot Edit Offer Accepted"
-msgstr ""
+msgstr "Không thể sữa đề nghị đã được chấp nhận"
 
 #. module: estate
 #. openerp-web
@@ -271,13 +271,13 @@ msgstr ""
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__code
 msgid "Code"
-msgstr ""
+msgstr "Mã số"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_demo_widget__color
 #: model:ir.model.fields,field_description:estate.field_estate_property_tag__color
 msgid "Color"
-msgstr ""
+msgstr "Màu"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.inherit_homepage_template
@@ -289,12 +289,12 @@ msgstr ""
 #. module: estate
 #: model:ir.ui.menu,name:estate.estate_menu_conf
 msgid "Configuration"
-msgstr ""
+msgstr "Cấu hình"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_website_user_feedback__create_datetime
 msgid "Created On"
-msgstr ""
+msgstr "Ngày tạo"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_buyer_offer_report_wizard__create_uid
@@ -305,7 +305,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:estate.field_estate_property_type__create_uid
 #: model:ir.model.fields,field_description:estate.field_website_user_feedback__create_uid
 msgid "Created by"
-msgstr ""
+msgstr "Tạo bởi"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_buyer_offer_report_wizard__create_date
@@ -316,22 +316,22 @@ msgstr ""
 #: model:ir.model.fields,field_description:estate.field_estate_property_type__create_date
 #: model:ir.model.fields,field_description:estate.field_website_user_feedback__create_date
 msgid "Created on"
-msgstr ""
+msgstr "Được tạo vào"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_demo_widget__date
 msgid "Date"
-msgstr ""
+msgstr "Ngày"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__date_availability
 msgid "Date Available"
-msgstr ""
+msgstr "Ngày có sẵn"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property_offer__date_deadline
 msgid "Date Deadline"
-msgstr ""
+msgstr "Hạn chót"
 
 #. module: estate
 #: model:ir.model,name:estate.model_demo_widget
@@ -375,7 +375,7 @@ msgstr "Phía đông"
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_buyer_offer_report_wizard__end_date
 msgid "End Date"
-msgstr ""
+msgstr "Ngày kết thúc"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.s_snippet_feedback
@@ -385,7 +385,7 @@ msgstr ""
 #. module: estate
 #: model:ir.ui.menu,name:estate.estate_menu
 msgid "Estate"
-msgstr ""
+msgstr "Tài sản"
 
 #. module: estate
 #: model:res.groups,name:estate.estate_admin
@@ -395,7 +395,7 @@ msgstr ""
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estates_page
 msgid "Estate Properties"
-msgstr ""
+msgstr "Bất động sản"
 
 #. module: estate
 #: model:ir.actions.act_window,name:estate.estate_property_action
@@ -430,34 +430,34 @@ msgstr ""
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__expected_price
 msgid "Expected Price"
-msgstr ""
+msgstr "Giá mong đợi"
 
 #. module: estate
 #: model:ir.actions.act_window,name:estate.action_buyer_offer_report_wizard
 #: model:ir.ui.menu,name:estate.estate_menu_report_buyer_excel
 msgid "Export Buyer Offer Excel"
-msgstr ""
+msgstr "Xuất đề nghị của người mua ra Excel"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.buyer_offer_report_wizard_view_form
 msgid "Export Excel"
-msgstr ""
+msgstr "Xuất ra excel"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__facades
 msgid "Facades"
-msgstr ""
+msgstr "Mặt tiền"
 
 #. module: estate
 #: model:ir.actions.act_window,name:estate.action_website_user_feedback
 #: model:ir.ui.menu,name:estate.estate_menu_widget_website_feedback
 msgid "Feedback"
-msgstr ""
+msgstr "Phản hồi"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_website_user_feedback__description
 msgid "Feedback Description"
-msgstr ""
+msgstr "Mô tả phản hồi"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.s_snippet_feedback
@@ -487,22 +487,22 @@ msgstr ""
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__garage
 msgid "Garage"
-msgstr ""
+msgstr "Ga-ra"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__garden
 msgid "Garden"
-msgstr ""
+msgstr "Vườn"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__garden_area
 msgid "Garden Area"
-msgstr ""
+msgstr "Khu vườn"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__garden_orientation
 msgid "Garden Orientation"
-msgstr ""
+msgstr "Hướng khu vườn"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.inherit_homepage_template
@@ -525,7 +525,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:estate.field_demo_widget__hide_color
 #, python-format
 msgid "Hide Color"
-msgstr ""
+msgstr "Ẩn màu"
 
 #. module: estate
 #. openerp-web
@@ -533,12 +533,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:estate.field_demo_widget__hide_date
 #, python-format
 msgid "Hide Date"
-msgstr ""
+msgstr "Ẩn ngày"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__best_price
 msgid "Highest Price"
-msgstr ""
+msgstr "Giá cao nhất"
 
 #. module: estate
 #: model:ir.actions.client,name:estate.action_homepage
@@ -628,12 +628,12 @@ msgstr ""
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_property_view_search
 msgid "Living Area"
-msgstr ""
+msgstr "Khu vực sống"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__living_area
 msgid "Living area"
-msgstr ""
+msgstr "khu vực sống"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.bemo_template_header
@@ -711,7 +711,7 @@ msgstr ""
 #. module: estate
 #: model:ir.model.fields.selection,name:estate.selection__estate_property__garden_orientation__north
 msgid "North"
-msgstr ""
+msgstr "Phía bắc"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__message_needaction_counter
@@ -747,23 +747,23 @@ msgstr ""
 #. module: estate
 #: model:ir.model.fields.selection,name:estate.selection__estate_property__state__offer_accepted
 msgid "Offer Accepted"
-msgstr ""
+msgstr "Đề nghị đã được chấp nhận"
 
 #. module: estate
 #: model:ir.model.fields.selection,name:estate.selection__estate_property__state__offer_received
 msgid "Offer Received"
-msgstr ""
+msgstr "Đề nghị đã nhận được"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property_type__offer_ids
 #: model_terms:ir.ui.view,arch_db:estate.estate_property_view_form
 msgid "Offers"
-msgstr ""
+msgstr "Đề nghị"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property_type__offer_count
 msgid "Offers Count"
-msgstr ""
+msgstr "Số lượng đề nghị"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.inherit_homepage_template
@@ -798,7 +798,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:estate.field_estate_property__postcode
 #: model_terms:ir.ui.view,arch_db:estate.estate_property_view_search
 msgid "Postcode"
-msgstr ""
+msgstr "Mã bưu điện"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estates_page
@@ -808,7 +808,7 @@ msgstr ""
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property_offer__price
 msgid "Price"
-msgstr ""
+msgstr "Giá"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_res_users__property_ids
@@ -864,17 +864,17 @@ msgstr ""
 #. module: estate
 #: model:ir.model.fields.selection,name:estate.selection__estate_property_offer__status__refused
 msgid "Refused"
-msgstr ""
+msgstr "Bị từ chối"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_buyer_offer_report__offers_rejected
 msgid "Rejected Offers"
-msgstr ""
+msgstr "Đề nghị bị từ chối"
 
 #. module: estate
 #: model:ir.ui.menu,name:estate.estate_menu_report
 msgid "Report"
-msgstr ""
+msgstr "Báo cáo"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__activity_user_id
@@ -894,22 +894,22 @@ msgstr ""
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__user_id
 msgid "Salesperson"
-msgstr ""
+msgstr "Nhân viên bán hàng"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estates_page
 msgid "Search"
-msgstr ""
+msgstr "Tìm kiếm"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estates_page
 msgid "Search by name"
-msgstr ""
+msgstr "Tìm kiếm bằng tên"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__selling_price
 msgid "Sell Price"
-msgstr ""
+msgstr "Giá bán"
 
 #. module: estate
 #: model:ir.model,name:estate.model_website
@@ -920,27 +920,27 @@ msgstr ""
 #: model:ir.model.fields.selection,name:estate.selection__estate_property__state__sold
 #: model_terms:ir.ui.view,arch_db:estate.estate_property_view_form
 msgid "Sold"
-msgstr ""
+msgstr "Đã bán"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_buyer_offer_report__properties_sold
 msgid "Sold Properties"
-msgstr ""
+msgstr "Những tài sản đã bán"
 
 #. module: estate
 #: model:ir.model.fields.selection,name:estate.selection__estate_property__garden_orientation__south
 msgid "South"
-msgstr ""
+msgstr "Phía nam"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_buyer_offer_report_wizard__start_date
 msgid "Start Date"
-msgstr ""
+msgstr "Ngày bắt đầu"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__state
 msgid "State"
-msgstr ""
+msgstr "Tình trạng"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_property_view_search
@@ -955,7 +955,7 @@ msgstr ""
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property_offer__status
 msgid "Status"
-msgstr ""
+msgstr "Trạng thái"
 
 #. module: estate
 #: model:ir.model.fields,help:estate.field_estate_property__activity_state
@@ -969,7 +969,7 @@ msgstr ""
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.feedback_thanks_template
 msgid "Thank You!"
-msgstr ""
+msgstr "Cảm ơn!"
 
 #. module: estate
 #: model:ir.model.constraint,message:estate.constraint_estate_property_check_expected_price_positive
@@ -1085,7 +1085,7 @@ msgstr ""
 #. module: estate
 #: model:ir.model.fields.selection,name:estate.selection__estate_property__garden_orientation__west
 msgid "West"
-msgstr ""
+msgstr "Phía tây"
 
 #. module: estate
 #: model:ir.ui.menu,name:estate.estate_menu_widget
