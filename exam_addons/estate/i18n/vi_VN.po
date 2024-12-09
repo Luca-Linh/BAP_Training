@@ -46,8 +46,8 @@ msgstr ""
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
 #: model_terms:ir.ui.view,arch_db:estate.estates_page
-msgid "<strong>Bedrooms:</strong>"
-msgstr ""
+msgid "Bedrooms"
+msgstr "Phòng ngủ"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
