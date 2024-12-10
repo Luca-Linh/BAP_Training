@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 14.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-06 02:04+0000\n"
-"PO-Revision-Date: 2024-12-10 03:38+0000\n"
+"PO-Revision-Date: 2024-12-10 08:13+0000\n"
 "Last-Translator: Vũ Tiến Linh <vutienlinh412001@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/"
 "training_weblate/estate/vi/>\n"
@@ -149,7 +149,7 @@ msgstr "Những hành động"
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__activity_exception_decoration
 msgid "Activity Exception Decoration"
-msgstr ""
+msgstr "Trang trí ngoại lệ hoạt động"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__activity_state
@@ -213,7 +213,7 @@ msgstr "Báo cáo đề nghị người mua"
 #: model:ir.model,name:estate.model_buyer_offer_report_wizard
 #: model_terms:ir.ui.view,arch_db:estate.buyer_offer_report_wizard_view_form
 msgid "Buyer Offer Report Wizard"
-msgstr ""
+msgstr "Trình hướng dẫn báo cáo ưu đãi của người mua"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_buyer_offer_report_wizard__buyer_ids
@@ -340,13 +340,13 @@ msgstr "Hạn chót"
 #: model_terms:ir.ui.view,arch_db:estate.view_demo_widget_form
 #: model_terms:ir.ui.view,arch_db:estate.view_demo_widget_tree
 msgid "Demo Widget"
-msgstr ""
+msgstr "Tiện ích demo"
 
 #. module: estate
 #: model:ir.actions.act_window,name:estate.action_demo_widget
 #: model:ir.ui.menu,name:estate.estate_menu_widget_demo_widget
 msgid "Demo Widgets"
-msgstr ""
+msgstr "Tiện ích demo"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__description
@@ -392,7 +392,7 @@ msgstr "Tài sản"
 #. module: estate
 #: model:res.groups,name:estate.estate_admin
 msgid "Estate Manager"
-msgstr ""
+msgstr "Người quản lý bất động sản"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estates_page
@@ -640,7 +640,7 @@ msgstr "khu vực sống"
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.bemo_template_header
 msgid "Logo"
-msgstr ""
+msgstr "Biểu tượng"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__message_main_attachment_id
@@ -734,17 +734,17 @@ msgstr "Số lỗi"
 #. module: estate
 #: model:ir.model.fields,help:estate.field_estate_property__message_needaction_counter
 msgid "Number of messages which requires an action"
-msgstr ""
+msgstr "Số lượng tin nhắn yêu cầu hành động"
 
 #. module: estate
 #: model:ir.model.fields,help:estate.field_estate_property__message_has_error_counter
 msgid "Number of messages with delivery error"
-msgstr ""
+msgstr "Số lượng tin nhắn có lỗi gửi"
 
 #. module: estate
 #: model:ir.model.fields,help:estate.field_estate_property__message_unread_counter
 msgid "Number of unread messages"
-msgstr ""
+msgstr "Số tin nhắn chưa đọc"
 
 #. module: estate
 #: model:ir.model.fields.selection,name:estate.selection__estate_property__state__offer_accepted
@@ -794,7 +794,7 @@ msgstr "Thông tin khác"
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estates_page
 msgid "Page navigation"
-msgstr ""
+msgstr "Điều hướng trang"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__postcode
@@ -835,7 +835,7 @@ msgstr "Đề nghị tài sản"
 #. module: estate
 #: model:ir.actions.act_window,name:estate.action_estate_property_offer_by_type
 msgid "Property Offers by Type"
-msgstr ""
+msgstr "Ưu đãi bất động sản theo loại"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__tag_ids
@@ -861,7 +861,7 @@ msgstr "Loại bất động sản"
 #: model:ir.ui.menu,name:estate.estate_menu_root
 #: model_terms:ir.ui.view,arch_db:estate.estate_property_view_form
 msgid "Real Estate"
-msgstr ""
+msgstr "Bất động sản"
 
 #. module: estate
 #: model:ir.model.fields.selection,name:estate.selection__estate_property_offer__status__refused
@@ -881,7 +881,7 @@ msgstr "Báo cáo"
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__activity_user_id
 msgid "Responsible User"
-msgstr ""
+msgstr "Người dùng có trách nhiệm"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.feedback_thanks_template
@@ -916,7 +916,7 @@ msgstr "Giá bán"
 #. module: estate
 #: model:ir.model,name:estate.model_website
 msgid "Set Default Language Website"
-msgstr ""
+msgstr "Đặt ngôn ngữ mặc định trang web"
 
 #. module: estate
 #: model:ir.model.fields.selection,name:estate.selection__estate_property__state__sold
@@ -952,7 +952,7 @@ msgstr "Trạng thái mới"
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_property_view_search
 msgid "State Offer Received"
-msgstr ""
+msgstr "Đã nhận được đề nghị"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property_offer__status
@@ -1003,7 +1003,7 @@ msgstr "Giá bán phải lớn hơn không."
 #: code:addons/estate/static/src/xml/integer_color_picker.xml:0
 #, python-format
 msgid "This colorCount is 0"
-msgstr ""
+msgstr "Màu sắc này là 0"
 
 #. module: estate
 #: code:addons/estate/models/estate_property_offer.py:0
@@ -1034,7 +1034,7 @@ msgstr "Loại bất động sản"
 #. module: estate
 #: model:ir.model.fields,help:estate.field_estate_property__activity_exception_decoration
 msgid "Type of the exception activity on record."
-msgstr ""
+msgstr "Loại hoạt động ngoại lệ được ghi lạ."
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__message_unread
@@ -1049,7 +1049,7 @@ msgstr ""
 #. module: estate
 #: model:ir.model,name:estate.model_website_user_feedback
 msgid "User Feedback"
-msgstr ""
+msgstr "Phản hồi của người dùng"
 
 #. module: estate
 #: model:ir.model,name:estate.model_res_users
@@ -1059,7 +1059,7 @@ msgstr "Người dùng"
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property_offer__validity
 msgid "Validity"
-msgstr ""
+msgstr "Hiệu lực"
 
 #. module: estate
 #. openerp-web
@@ -1077,12 +1077,12 @@ msgstr "Cảnh báo"
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__website_message_ids
 msgid "Website Messages"
-msgstr ""
+msgstr "Tin nhắn trang web"
 
 #. module: estate
 #: model:ir.model.fields,help:estate.field_estate_property__website_message_ids
 msgid "Website communication history"
-msgstr ""
+msgstr "Lịch sử giao tiếp trang web"
 
 #. module: estate
 #: model:ir.model.fields.selection,name:estate.selection__estate_property__garden_orientation__west
@@ -1092,7 +1092,7 @@ msgstr "Phía tây"
 #. module: estate
 #: model:ir.ui.menu,name:estate.estate_menu_widget
 msgid "Widgets"
-msgstr ""
+msgstr "Widget"
 
 #. module: estate
 #: code:addons/estate/models/estate_property_offer.py:0
