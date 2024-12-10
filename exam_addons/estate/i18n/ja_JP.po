@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 14.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-10 02:57+0000\n"
-"PO-Revision-Date: 2024-12-10 03:09+0000\n"
+"PO-Revision-Date: 2024-12-10 05:48+0000\n"
 "Last-Translator: Vũ Tiến Linh <vutienlinh412001@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/"
 "training_weblate/estate/ja/>\n"
@@ -67,127 +67,127 @@ msgstr "<strong>ファサード:</strong>"
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
 msgid "<strong>Garden Area:</strong>"
-msgstr ""
+msgstr "<strong>ガーデンエリア:</strong>"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
 msgid "<strong>Garden Orientation:</strong>"
-msgstr ""
+msgstr "<strong>庭の向き:</strong>"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
 msgid "<strong>Garden:</strong>"
-msgstr ""
+msgstr "<strong>庭:</strong>"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
 msgid "<strong>Living Area:</strong>"
-msgstr ""
+msgstr "<strong>リビングエリア:</strong>"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
 msgid "<strong>Location:</strong>"
-msgstr ""
+msgstr "<strong>ロケーション:</strong>"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
 msgid "<strong>Name:</strong>"
-msgstr ""
+msgstr "<strong>名前:</strong>"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estates_page
 msgid "<strong>Price:</strong>"
-msgstr ""
+msgstr "<strong>価格:</strong>"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
 msgid "<strong>Selling Price:</strong>"
-msgstr ""
+msgstr "<strong>販売価格:</strong>"
 
 #. module: estate
 #: code:addons/estate/models/estate_property.py:0
 #, python-format
 msgid "A canceled property cannot be sold."
-msgstr ""
+msgstr "キャンセルされた物件は販売できません。"
 
 #. module: estate
 #: code:addons/estate/models/estate_property.py:0
 #, python-format
 msgid "A sold property cannot be canceled."
-msgstr ""
+msgstr "売却した物件はキャンセルできません。"
 
 #. module: estate
 #: model:ir.model.fields.selection,name:estate.selection__estate_property_offer__status__accepted
 msgid "Accepted"
-msgstr ""
+msgstr "承認済み"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_buyer_offer_report__offers_accepted
 msgid "Accepted Offers"
-msgstr ""
+msgstr "承諾されたオファー"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_buyer_offer_report__properties_accepted
 msgid "Accepted Properties"
-msgstr ""
+msgstr "受け入れられるプロパティ"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__message_needaction
 msgid "Action Needed"
-msgstr ""
+msgstr "必要なアクション"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__active
 msgid "Active"
-msgstr ""
+msgstr "アクティブ"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__activity_ids
 msgid "Activities"
-msgstr ""
+msgstr "活動"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__activity_exception_decoration
 msgid "Activity Exception Decoration"
-msgstr ""
+msgstr "アクティビティ例外デコレーション"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__activity_state
 msgid "Activity State"
-msgstr ""
+msgstr "アクティビティ状態"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__activity_type_icon
 msgid "Activity Type Icon"
-msgstr ""
+msgstr "アクティビティタイプアイコン"
 
 #. module: estate
 #: model:ir.ui.menu,name:estate.estate_menu_adv
 msgid "Advertisement"
-msgstr ""
+msgstr "広告"
 
 #. module: estate
 #. openerp-web
 #: code:addons/estate/static/src/xml/button_widget.xml:0
 #, python-format
 msgid "Apply"
-msgstr ""
+msgstr "適用する"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__message_attachment_count
 msgid "Attachment Count"
-msgstr ""
+msgstr "添付ファイル数"
 
 #. module: estate
 #: code:addons/estate/models/estate_property.py:0
 #, python-format
 msgid "Availability Date is set in the part"
-msgstr ""
+msgstr "利用可能日は部品に設定されている"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_details_page
 msgid "Back to Listing"
-msgstr ""
+msgstr "リストに戻る"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__bedrooms
@@ -199,7 +199,7 @@ msgstr "ベッドルーム"
 #: model:ir.model.fields,field_description:estate.field_estate_property__partner_id
 #: model:ir.model.fields,field_description:estate.field_estate_property_offer__buyer_id
 msgid "Buyer"
-msgstr ""
+msgstr "買い手"
 
 #. module: estate
 #: model:ir.actions.act_window,name:estate.buyer_offer_report_action
@@ -207,7 +207,7 @@ msgstr ""
 #: model:ir.ui.menu,name:estate.estate_menu_report_buyer
 #: model_terms:ir.ui.view,arch_db:estate.buyer_offer_report_view_tree
 msgid "Buyer Offer Report"
-msgstr ""
+msgstr "購入者オファーレポート"
 
 #. module: estate
 #: model:ir.model,name:estate.model_buyer_offer_report_wizard
@@ -218,73 +218,74 @@ msgstr ""
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_buyer_offer_report_wizard__buyer_ids
 msgid "Buyers"
-msgstr ""
+msgstr "購入者"
 
 #. module: estate
 #: code:addons/estate/models/estate_property.py:0
 #, python-format
 msgid "Can not Delete Property not in new or canceled"
-msgstr ""
+msgstr "新規またはキャンセルされていないプロパティは削除できません"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.buyer_offer_report_wizard_view_form
 #: model_terms:ir.ui.view,arch_db:estate.estate_property_view_form
 msgid "Cancel"
-msgstr ""
+msgstr "キャンセル"
 
 #. module: estate
 #: model:ir.model.fields.selection,name:estate.selection__estate_property__state__canceled
 msgid "Canceled"
-msgstr ""
+msgstr "キャンセル"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_buyer_offer_report__properties_canceled
 msgid "Canceled Properties"
-msgstr ""
+msgstr "キャンセルされた物件"
 
 #. module: estate
 #: code:addons/estate/models/estate_property_offer.py:0
 #, python-format
 msgid "Cannot Delete Offer Accepted"
-msgstr ""
+msgstr "承諾されたオファーを削除できません"
 
 #. module: estate
 #: code:addons/estate/models/estate_property_offer.py:0
 #, python-format
 msgid "Cannot Edit Offer Accepted"
-msgstr ""
+msgstr "承諾されたオファーを編集できません"
 
 #. module: estate
 #. openerp-web
 #: code:addons/estate/static/src/xml/button_widget.xml:0
 #, python-format
 msgid "Clear"
-msgstr ""
+msgstr "クリア"
 
 #. module: estate
 #. openerp-web
 #: code:addons/estate/static/src/xml/button_widget.xml:0
 #, python-format
 msgid "Click Me"
-msgstr ""
+msgstr "クリックしてください"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__code
 msgid "Code"
-msgstr ""
+msgstr "コード"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_demo_widget__color
 #: model:ir.model.fields,field_description:estate.field_estate_property_tag__color
 msgid "Color"
-msgstr ""
+msgstr "色"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.inherit_homepage_template
 msgid ""
 "Comprehensive features make Bemo® the premier option to boost efficiency and"
 " productivity in your workflow"
-msgstr ""
+msgstr "包括的な機能を備えたBemo®は、ワークフローの効率と生産性を向上させる最高のオプ"
+"ションです"
 
 #. module: estate
 #: model:ir.ui.menu,name:estate.estate_menu_conf
@@ -294,7 +295,7 @@ msgstr "構成"
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_website_user_feedback__create_datetime
 msgid "Created On"
-msgstr ""
+msgstr "作成日"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_buyer_offer_report_wizard__create_uid
@@ -305,7 +306,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:estate.field_estate_property_type__create_uid
 #: model:ir.model.fields,field_description:estate.field_website_user_feedback__create_uid
 msgid "Created by"
-msgstr ""
+msgstr "作成者"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_buyer_offer_report_wizard__create_date
@@ -316,22 +317,22 @@ msgstr ""
 #: model:ir.model.fields,field_description:estate.field_estate_property_type__create_date
 #: model:ir.model.fields,field_description:estate.field_website_user_feedback__create_date
 msgid "Created on"
-msgstr ""
+msgstr "作成日"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_demo_widget__date
 msgid "Date"
-msgstr ""
+msgstr "日付"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__date_availability
 msgid "Date Available"
-msgstr ""
+msgstr "利用可能日"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property_offer__date_deadline
 msgid "Date Deadline"
-msgstr ""
+msgstr "日付 締め切り"
 
 #. module: estate
 #: model:ir.model,name:estate.model_demo_widget
@@ -350,7 +351,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:estate.field_estate_property__description
 #: model_terms:ir.ui.view,arch_db:estate.estate_property_view_form
 msgid "Description"
-msgstr ""
+msgstr "説明"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_buyer_offer_report__display_name
@@ -365,17 +366,17 @@ msgstr ""
 #: model:ir.model.fields,field_description:estate.field_website__display_name
 #: model:ir.model.fields,field_description:estate.field_website_user_feedback__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "表示名"
 
 #. module: estate
 #: model:ir.model.fields.selection,name:estate.selection__estate_property__garden_orientation__east
 msgid "East"
-msgstr ""
+msgstr "東"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_buyer_offer_report_wizard__end_date
 msgid "End Date"
-msgstr ""
+msgstr "終了日"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.s_snippet_feedback
@@ -395,42 +396,42 @@ msgstr ""
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estates_page
 msgid "Estate Properties"
-msgstr ""
+msgstr "不動産物件"
 
 #. module: estate
 #: model:ir.actions.act_window,name:estate.estate_property_action
 #: model:ir.model,name:estate.model_estate_property
 #: model_terms:ir.ui.view,arch_db:estate.estate_property_view_tree
 msgid "Estate Property"
-msgstr ""
+msgstr "不動産"
 
 #. module: estate
 #: model:ir.actions.act_window,name:estate.estate_property_offer_action
 #: model:ir.model,name:estate.model_estate_property_offer
 #: model_terms:ir.ui.view,arch_db:estate.estate_property_offer_view_tree
 msgid "Estate Property Offer"
-msgstr ""
+msgstr "不動産物件オファー"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_property_view_search
 msgid "Estate Property Search"
-msgstr ""
+msgstr "不動産物件検索"
 
 #. module: estate
 #: model:ir.model,name:estate.model_estate_property_tag
 msgid "Estate Property Tag"
-msgstr ""
+msgstr "不動産タグ"
 
 #. module: estate
 #: model:ir.actions.act_window,name:estate.estate_property_type_action
 #: model_terms:ir.ui.view,arch_db:estate.estate_property_type_view_tree
 msgid "Estate Property Type"
-msgstr ""
+msgstr "不動産物件タイプ"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__expected_price
 msgid "Expected Price"
-msgstr ""
+msgstr "予想価格"
 
 #. module: estate
 #: model:ir.actions.act_window,name:estate.action_buyer_offer_report_wizard
@@ -446,23 +447,23 @@ msgstr ""
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__facades
 msgid "Facades"
-msgstr ""
+msgstr "ファサード"
 
 #. module: estate
 #: model:ir.actions.act_window,name:estate.action_website_user_feedback
 #: model:ir.ui.menu,name:estate.estate_menu_widget_website_feedback
 msgid "Feedback"
-msgstr ""
+msgstr "フィードバック"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_website_user_feedback__description
 msgid "Feedback Description"
-msgstr ""
+msgstr "フィードバックの説明"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.s_snippet_feedback
 msgid "Feedback Form"
-msgstr ""
+msgstr "フィードバックフォーム"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__message_follower_ids
@@ -487,7 +488,7 @@ msgstr ""
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__garage
 msgid "Garage"
-msgstr ""
+msgstr "ガレージ"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__garden
@@ -512,12 +513,12 @@ msgstr ""
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_property_view_search
 msgid "Group by"
-msgstr ""
+msgstr "グループ化"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.s_snippet_feedback
 msgid "Gửi đi"
-msgstr ""
+msgstr "お気に入り"
 
 #. module: estate
 #. openerp-web
@@ -525,7 +526,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:estate.field_demo_widget__hide_color
 #, python-format
 msgid "Hide Color"
-msgstr ""
+msgstr "色を非表示"
 
 #. module: estate
 #. openerp-web
@@ -533,18 +534,18 @@ msgstr ""
 #: model:ir.model.fields,field_description:estate.field_demo_widget__hide_date
 #, python-format
 msgid "Hide Date"
-msgstr ""
+msgstr "日付を非表示"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__best_price
 msgid "Highest Price"
-msgstr ""
+msgstr "最高価格"
 
 #. module: estate
 #: model:ir.actions.client,name:estate.action_homepage
 #: model:ir.ui.menu,name:estate.menu_homepage
 msgid "Homepage"
-msgstr ""
+msgstr "ホームページ"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_buyer_offer_report__id
@@ -559,17 +560,17 @@ msgstr ""
 #: model:ir.model.fields,field_description:estate.field_website__id
 #: model:ir.model.fields,field_description:estate.field_website_user_feedback__id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__activity_exception_icon
 msgid "Icon"
-msgstr ""
+msgstr "アイコン"
 
 #. module: estate
 #: model:ir.model.fields,help:estate.field_estate_property__activity_exception_icon
 msgid "Icon to indicate an exception activity."
-msgstr ""
+msgstr "例外アクティビティを示すアイコン。"
 
 #. module: estate
 #: model:ir.model.fields,help:estate.field_estate_property__message_needaction
@@ -638,7 +639,7 @@ msgstr "リビングエリア"
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.bemo_template_header
 msgid "Logo"
-msgstr ""
+msgstr "ロゴ"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__message_main_attachment_id
@@ -648,7 +649,7 @@ msgstr ""
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_buyer_offer_report__max_offer_price
 msgid "Max Offer Price"
-msgstr ""
+msgstr "最大オファー価格"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__message_has_error
@@ -663,40 +664,40 @@ msgstr ""
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_buyer_offer_report__min_offer_price
 msgid "Min Offer Price"
-msgstr ""
+msgstr "最低オファー価格"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__my_activity_date_deadline
 msgid "My Activity Deadline"
-msgstr ""
+msgstr "私の活動期限"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_demo_widget__name
 #: model:ir.model.fields,field_description:estate.field_estate_property__name
 msgid "Name"
-msgstr ""
+msgstr "名前"
 
 #. module: estate
 #: model:ir.model.fields.selection,name:estate.selection__estate_property__state__new
 #: model:ir.model.fields.selection,name:estate.selection__estate_property_offer__status__new
 msgid "New"
-msgstr ""
+msgstr "新しい"
 
 #. module: estate
 #: code:addons/estate/models/estate_property.py:0
 #, python-format
 msgid "New Code"
-msgstr ""
+msgstr "新しいコード"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estates_page
 msgid "Next"
-msgstr ""
+msgstr "次"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__activity_date_deadline
 msgid "Next Activity Deadline"
-msgstr ""
+msgstr "次の活動の締め切り"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__activity_summary
@@ -711,7 +712,7 @@ msgstr ""
 #. module: estate
 #: model:ir.model.fields.selection,name:estate.selection__estate_property__garden_orientation__north
 msgid "North"
-msgstr ""
+msgstr "北"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__message_needaction_counter
@@ -722,7 +723,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:estate.estate_property_type_view_form
 #: model_terms:ir.ui.view,arch_db:estate.estate_property_type_view_tree
 msgid "Number of Offers"
-msgstr ""
+msgstr "オファー数"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__message_has_error_counter
@@ -747,23 +748,23 @@ msgstr ""
 #. module: estate
 #: model:ir.model.fields.selection,name:estate.selection__estate_property__state__offer_accepted
 msgid "Offer Accepted"
-msgstr ""
+msgstr "オファーを承諾"
 
 #. module: estate
 #: model:ir.model.fields.selection,name:estate.selection__estate_property__state__offer_received
 msgid "Offer Received"
-msgstr ""
+msgstr "オファーを受け取りました"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property_type__offer_ids
 #: model_terms:ir.ui.view,arch_db:estate.estate_property_view_form
 msgid "Offers"
-msgstr ""
+msgstr "オファー"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property_type__offer_count
 msgid "Offers Count"
-msgstr ""
+msgstr "オファー数"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.inherit_homepage_template
@@ -782,12 +783,12 @@ msgstr ""
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.inherit_homepage_template
 msgid "One platform for your team to get work done faster"
-msgstr ""
+msgstr "チームがより早く仕事をこなせるよう、1つのプラットフォームで対応"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_property_view_form
 msgid "Other Info"
-msgstr ""
+msgstr "その他の情報"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estates_page
@@ -798,12 +799,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:estate.field_estate_property__postcode
 #: model_terms:ir.ui.view,arch_db:estate.estate_property_view_search
 msgid "Postcode"
-msgstr ""
+msgstr "郵便番号"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estates_page
 msgid "Previous"
-msgstr ""
+msgstr "前の"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property_offer__price
@@ -821,31 +822,31 @@ msgstr "プロパティ"
 #: model:ir.model.fields,field_description:estate.field_estate_property_offer__property_id
 #: model:ir.model.fields,field_description:estate.field_estate_property_type__property_ids
 msgid "Property"
-msgstr ""
+msgstr "財産"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__offer_ids
 #: model:ir.ui.menu,name:estate.estate_menu_adv_offer
 #: model_terms:ir.ui.view,arch_db:estate.estate_property_offer_view_form
 msgid "Property Offer"
-msgstr ""
+msgstr "物件オファー"
 
 #. module: estate
 #: model:ir.actions.act_window,name:estate.action_estate_property_offer_by_type
 msgid "Property Offers by Type"
-msgstr ""
+msgstr "タイプ別物件オファー"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__tag_ids
 #: model:ir.model.fields,field_description:estate.field_estate_property_tag__name
 #: model:ir.ui.menu,name:estate.estate_menu_conf_tag
 msgid "Property Tag"
-msgstr ""
+msgstr "プロパティタグ"
 
 #. module: estate
 #: model:ir.actions.act_window,name:estate.estate_property_tag_action
 msgid "Property Tags"
-msgstr ""
+msgstr "プロパティタグ"
 
 #. module: estate
 #: model:ir.model,name:estate.model_estate_property_type
@@ -853,7 +854,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:estate.field_estate_property_offer__property_type_id
 #: model:ir.ui.menu,name:estate.estate_menu_conf_type
 msgid "Property Type"
-msgstr ""
+msgstr "物件タイプ"
 
 #. module: estate
 #: model:ir.ui.menu,name:estate.estate_menu_root
@@ -864,27 +865,27 @@ msgstr ""
 #. module: estate
 #: model:ir.model.fields.selection,name:estate.selection__estate_property_offer__status__refused
 msgid "Refused"
-msgstr ""
+msgstr "拒否した"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_buyer_offer_report__offers_rejected
 msgid "Rejected Offers"
-msgstr ""
+msgstr "拒否されたオファー"
 
 #. module: estate
 #: model:ir.ui.menu,name:estate.estate_menu_report
 msgid "Report"
-msgstr ""
+msgstr "報告"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__activity_user_id
 msgid "Responsible User"
-msgstr ""
+msgstr "責任あるユーザー"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.feedback_thanks_template
 msgid "Return to Home"
-msgstr ""
+msgstr "ホームに戻る"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__message_has_sms_error
@@ -894,68 +895,68 @@ msgstr ""
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__user_id
 msgid "Salesperson"
-msgstr ""
+msgstr "営業担当者"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estates_page
 msgid "Search"
-msgstr ""
+msgstr "検索"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estates_page
 msgid "Search by name"
-msgstr ""
+msgstr "名前で検索"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__selling_price
 msgid "Sell Price"
-msgstr ""
+msgstr "販売価格"
 
 #. module: estate
 #: model:ir.model,name:estate.model_website
 msgid "Set Default Language Website"
-msgstr ""
+msgstr "デフォルトの言語を設定するウェブサイト"
 
 #. module: estate
 #: model:ir.model.fields.selection,name:estate.selection__estate_property__state__sold
 #: model_terms:ir.ui.view,arch_db:estate.estate_property_view_form
 msgid "Sold"
-msgstr ""
+msgstr "販売済み"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_buyer_offer_report__properties_sold
 msgid "Sold Properties"
-msgstr ""
+msgstr "売却物件"
 
 #. module: estate
 #: model:ir.model.fields.selection,name:estate.selection__estate_property__garden_orientation__south
 msgid "South"
-msgstr ""
+msgstr "南"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_buyer_offer_report_wizard__start_date
 msgid "Start Date"
-msgstr ""
+msgstr "開始日"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__state
 msgid "State"
-msgstr ""
+msgstr "州"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_property_view_search
 msgid "State New"
-msgstr ""
+msgstr "州 新規"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_property_view_search
 msgid "State Offer Received"
-msgstr ""
+msgstr "州のオファーを受領"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property_offer__status
 msgid "Status"
-msgstr ""
+msgstr "状態"
 
 #. module: estate
 #: model:ir.model.fields,help:estate.field_estate_property__activity_state
@@ -969,70 +970,70 @@ msgstr ""
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.feedback_thanks_template
 msgid "Thank You!"
-msgstr ""
+msgstr "ありがとう！"
 
 #. module: estate
 #: model:ir.model.constraint,message:estate.constraint_estate_property_check_expected_price_positive
 msgid "The expected price must be strictly positive."
-msgstr ""
+msgstr "予想価格は厳密に正の値でなければなりません。"
 
 #. module: estate
 #: model:ir.model.constraint,message:estate.constraint_estate_property_offer_check_offer_price_positive
 msgid "The offer price must be strictly positive."
-msgstr ""
+msgstr "オファー価格は厳密にプラスである必要があります。"
 
 #. module: estate
 #: model:ir.model.constraint,message:estate.constraint_estate_property_tag_property_tag_name_unique
 msgid "The property tag name must be unique."
-msgstr ""
+msgstr "プロパティ タグ名は一意である必要があります。"
 
 #. module: estate
 #: model:ir.model.constraint,message:estate.constraint_estate_property_type_property_type_name_unique
 msgid "The property type name must be unique."
-msgstr ""
+msgstr "プロパティ タイプ名は一意である必要があります。"
 
 #. module: estate
 #: model:ir.model.constraint,message:estate.constraint_estate_property_check_selling_price_positive
 msgid "The selling price must be positive."
-msgstr ""
+msgstr "販売価格はプラスでなければなりません。"
 
 #. module: estate
 #. openerp-web
 #: code:addons/estate/static/src/xml/integer_color_picker.xml:0
 #, python-format
 msgid "This colorCount is 0"
-msgstr ""
+msgstr "このカラーカウントは0です"
 
 #. module: estate
 #: code:addons/estate/models/estate_property_offer.py:0
 #, python-format
 msgid "This offer is already accepted."
-msgstr ""
+msgstr "このオファーはすでに承諾されています。"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_property_view_tree
 msgid "Title"
-msgstr ""
+msgstr "タイトル"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__total_area
 msgid "Total Area"
-msgstr ""
+msgstr "総面積"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_buyer_offer_report__property_count
 msgid "Total Properties"
-msgstr ""
+msgstr "合計プロパティ"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property_type__name
 msgid "Type Property"
-msgstr ""
+msgstr "タイププロパティ"
 
 #. module: estate
 #: model:ir.model.fields,help:estate.field_estate_property__activity_exception_decoration
 msgid "Type of the exception activity on record."
-msgstr ""
+msgstr "記録されている例外アクティビティのタイプ。"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__message_unread
@@ -1052,12 +1053,12 @@ msgstr ""
 #. module: estate
 #: model:ir.model,name:estate.model_res_users
 msgid "Users"
-msgstr ""
+msgstr "ユーザー"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property_offer__validity
 msgid "Validity"
-msgstr ""
+msgstr "有効"
 
 #. module: estate
 #. openerp-web
@@ -1070,7 +1071,7 @@ msgstr ""
 #: code:addons/estate/models/estate_property.py:0
 #, python-format
 msgid "Warning"
-msgstr ""
+msgstr "警告"
 
 #. module: estate
 #: model:ir.model.fields,field_description:estate.field_estate_property__website_message_ids
@@ -1085,7 +1086,7 @@ msgstr ""
 #. module: estate
 #: model:ir.model.fields.selection,name:estate.selection__estate_property__garden_orientation__west
 msgid "West"
-msgstr ""
+msgstr "西"
 
 #. module: estate
 #: model:ir.ui.menu,name:estate.estate_menu_widget
@@ -1097,12 +1098,12 @@ msgstr ""
 #, python-format
 msgid ""
 "You cannot create offer with price lower than or equal to an existing offer."
-msgstr ""
+msgstr "既存のオファーと同等かそれ以下の価格でオファーを作成することはできません。"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.feedback_thanks_template
 msgid "Your feedback has been submitted successfully."
-msgstr ""
+msgstr "フィードバックは正常に送信されました。"
 
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.inherit_homepage_template
@@ -1117,7 +1118,7 @@ msgstr ""
 #. module: estate
 #: model_terms:ir.ui.view,arch_db:estate.estate_property_type_view_form
 msgid "offers of Type"
-msgstr ""
+msgstr "タイプのオファー"
 
 #. module: estate
 #: model:ir.model,name:estate.model_report_estate_buyer_offer_report_xlsx
